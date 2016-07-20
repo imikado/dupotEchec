@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Splashscreen.qml</file>
+        <file>Menu.qml</file>
+        <file>Bouton.qml</file>
+        <file>Scene.qml</file>
+        <file>CaseB.qml</file>
+        <file>CaseN.qml</file>
+        <file>Piece.qml</file>
+        <file>Team.qml</file>
+        <file>GameOver.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>logoMobileDupot.jpg</file>
+        <file>startGame.png</file>
+        <file>pieces.png</file>
+        <file>team.png</file>
+    </qresource>
+    <qresource prefix="/js">
+        <file>game.js</file>
+    </qresource>
+</RCC>
